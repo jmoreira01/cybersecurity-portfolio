@@ -3,7 +3,7 @@
 Here I share my progress in the Google Cybersecurity course, my technical skills, and my IT foundation.
 
 ## Professional Statement
-- [English Version](professional_statement_en.md)
+- [Professional Statement](professional_statement.md)
 
 ## About Me
 - Completed Google IT Support course, providing a foundation in IT and security.
