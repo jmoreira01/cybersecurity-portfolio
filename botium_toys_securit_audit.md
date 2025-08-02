@@ -18,7 +18,7 @@ Botium Toys is a small business with a single physical location serving as its o
 - Legacy system maintenance: end-of-life systems that require human monitoring
 
 ## Risk Assessment
-# Risk Description:
+### Risk Description:
 Currently, there is inadequate management of assets. Additionally, Botium Toys does not have all of the proper controls in place and may not be fully compliant with U.S. and international regulations and standards. 
 
 ### Control best practices:
