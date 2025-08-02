@@ -11,4 +11,4 @@ Here I share my progress in the Google Cybersecurity course, my technical skills
 - Beginner in cybersecurity, focused on learning more about protection, analysis, and risk mitigation in systems.
 
 ## Projects
-- **[Botium Toys: Internal Security Audit](botium_toys_securit_audit)**: Conducted an internal security audit for a fictional toy company, assessing controls and compliance with PCI DSS, GDPR, and SOC standards. Provided recommendations to improve security posture and mitigate risks.
+- **[Botium Toys: Internal Security Audit](botium_toys_securit_audit.md)**: Conducted an internal security audit for a fictional toy company, assessing controls and compliance with PCI DSS, GDPR, and SOC standards. Provided recommendations to improve security posture and mitigate risks.
