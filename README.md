@@ -12,3 +12,4 @@ Here I share my progress in the Google Cybersecurity course, my technical skills
 
 ## Projects
 - **[Botium Toys: Internal Security Audit](botium_toys_securit_audit.md)**: Conducted an internal security audit for a fictional toy company, assessing controls and compliance with PCI DSS, GDPR, and SOC standards. Provided recommendations to improve security posture and mitigate risks.
+- **[Network Traffic Analysis: YummyRecipesForMe.com](network_traffic_analysis_yummyrecipes.md)**: Analyzed a network incident, identifying a DNS resolution failure due to an unreachable port 53, and documented findings in a cybersecurity incident report.
