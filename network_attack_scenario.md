@@ -1,7 +1,5 @@
 ## Scenario
 
-Review the following scenario. Then complete the step-by-step instructions.
-
 You work as a security analyst for a travel agency that advertises sales and promotions on the company’s website. The employees of the company regularly access the company’s sales webpage to search for vacation packages their customers might like.
 
 One afternoon, you receive an automated alert from your monitoring system indicating a problem with the web server. You attempt to visit the company’s website, but you receive a connection timeout error message in your browser.
@@ -193,9 +191,6 @@ Follow the instructions and answer the question to complete the activity.
 
 
 ### 1. Identify the type of attack causing this network interruption
-
-Reflect on the types of network intrusion attacks that you have learned about in this course so far. 
-As a security analyst, identifying the type of network attack based on the incident is the first step to managing the attack and preventing similar attacks in the future.
 
 Here are some questions to consider when determining what type of attack occurred:
 
