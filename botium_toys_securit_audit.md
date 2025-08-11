@@ -1,8 +1,5 @@
 # Botium Toys: Internal Security Audit
 
-## Activity Overview
-This project is part of the Google Cybersecurity course, where I conducted an internal security audit for Botium Toys, a fictional U.S.-based toy company. The audit evaluates the company’s security posture by assessing controls and compliance with standards like PCI DSS, GDPR, and SOC. The goal is to identify gaps in security controls and compliance practices and provide recommendations to mitigate risks.
-
 ## Scenario Summary
 Botium Toys is a small business with a single physical location serving as its office, storefront, and warehouse. With a growing online presence, the IT department faces challenges in maintaining compliance and securing critical assets. The audit scope includes all assets and internal processes, with goals to assess existing assets and complete controls and compliance checklists to improve security posture.
 
