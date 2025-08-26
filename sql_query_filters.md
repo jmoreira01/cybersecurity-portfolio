@@ -570,4 +570,4 @@ WHERE NOT department = 'Information Technology';
 This activity honed my SQL querying skills, particularly in using filters for security analysis. Mastering operators like AND, OR, and NOT, and understanding wildcards.
 
 ---
-Back to Cybersecurity Portfolio
+[Back to Cybersecurity Portfolio](README.md)
